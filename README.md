@@ -1,2 +1,2 @@
-# Marketing
-Marketing view in Vue.JS
+# To-do List
+To-do List view in Vue.JS
